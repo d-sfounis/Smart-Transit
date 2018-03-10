@@ -14,9 +14,9 @@
 </p>
 
 - [Overview](#overview)
-- [How to use](#howsmarttransitworks)
-- [Our TODO List/Roadmap](#roadmap)
-- [Aknowledgements & License](#credits-and-license)
+- [How Smart Transit works](#how-smart-transit-works)
+- [Our TODO List/Roadmap](#our-todo-list/roadmap)
+- [Aknowledgements & License](#aknowledgements-&-license)
 
 ---
 
