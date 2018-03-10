@@ -14,7 +14,7 @@
 </p>
 
 - [Overview](#overview)
-- [How to use](#usage)
+- [How to use](#howsmarttransitworks)
 - [Our TODO List/Roadmap](#roadmap)
 - [Aknowledgements & License](#credits-and-license)
 
@@ -59,7 +59,8 @@ __3. Government-friendly__
 - A general thanks to the whole NEO Dev team, for providing the tools through which we made our idea a reality.
 
 Website: http://smarttransit.eu
-Created by: Dimitris Sfounis (<https://dsfounis.com/>).
+
+Created by: Dimitris Sfounis (<https://dsfounis.com/>),
 Theocharis Iordanidis
 Stefanos Dragoutsis
 
