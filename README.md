@@ -55,6 +55,7 @@ A general lack of documentation is what held us back the most. Out-of-date docs 
 - TicketManager Smart Contract (Ready and deployed)
 - Live Demo using 2 virtual buses and 3 virtual passengers (In progress - Debugging)
 - Account database on site, that creates a new wallet for each user when they register (Not started - In Design)
+- HTTPS implementation on smarttransit.eu, for encrypted and secure data transfers (Not started - SSL certificates ready)
 - Use of SmartTransit token instead of GAS (Abandoned - Not needed, GAS is as good as a new token in this case - Not every idea needs an ICO)
 
 ### Aknowledgements & License
