@@ -66,4 +66,4 @@ Stefanos Dragoutsis
 
 Greece, March 10th 2018
 
-This project is released under the MIT license, see `LICENSE.md` for more details.
+This project is released under the MIT license, see the `LICENSE` file for more details.
