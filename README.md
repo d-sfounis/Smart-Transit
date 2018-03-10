@@ -61,7 +61,7 @@ __3. Government-friendly__
 Website: http://smarttransit.eu
 
 Created by: Dimitris Sfounis (<https://dsfounis.com/>),
-Theocharis Iordanidis
+Theocharis Iordanidis,
 Stefanos Dragoutsis
 
 Greece, March 10th 2018
