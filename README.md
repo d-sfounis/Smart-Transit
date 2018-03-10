@@ -30,7 +30,7 @@ We discuss the specific merits for every group (The commuter, the Transit Organi
 
 __1. Customer-friendly__
   - Transportation is fully in the hands of the commuter.
-  - Customers interact with the NEO blockchain and only the NEO blockchain, to buy tickets
+  - Customers interact with the NEO blockchain and only the NEO blockchain, to buy tickets through our C# Smart Contract
   - Users are incentivised (through a 50% refund) to mark their trip as "complete" when they disembark, providing live marketing data with small error margins to the Transit Organization.
   - As we respect the Right to Privacy of a European citizen, at no point does our commuter yield his private details, as it is not required - the system does not rely on trust.
   
