@@ -15,6 +15,7 @@
 
 - [Overview](#overview)
 - [How Smart Transit works](#how-smart-transit-works)
+- [Problems we faced](#problems-we-faced)
 - [Our TODO List/Roadmap](#our-todo-list/roadmap)
 - [Aknowledgements & License](#aknowledgements-&-license)
 
@@ -45,6 +46,9 @@ __2. Transit-Organization-Friendly__
 __3. Government-friendly__
   - The entire system is completely transparent and ready for auditing by any governing body, to ensure the Transit Organization's fair treatment of European public funds and ticket income.
   - Dishonesty and falsehoods are, by design, unable to exist on the NEO Blockchain, and therefore ruled out.
+  
+### Problems we faced
+A general lack of documentation is what held us back the most. Out-of-date docs and buggy main branches on various `neo/CoZ` projects was our main source of frustration, but at the same time, that frustration familiarized us with the process of building an Open-Source project based on NEO. With every problem, we learned that we need to post an Issue on GitHub. With every trouble, we learned that we need to discuss the issue with others on the StackExchange (while we had it) or on Discord. With every breakthrough and solution, we found out that the correct thing to do is make a pull request and share the solution with all other NEO devs. In the end, the feeling of community and belonging that came after overcaming these difficulties is something as important to us as the project itself.
 
 ### Our TODO List/Roadmap
 
