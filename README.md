@@ -59,7 +59,7 @@ A general lack of documentation is what held us back the most. Out-of-date docs 
 
 ### Aknowledgements & License
 - Big thanks are owed to `relfos`, author of the `neo-debugger-tools` repo, for all the help and guidance he provided.
-- Another big thanks to users @SamGuy, @jwhollister and @MichaelHermann of the `#csharp` channel on NEO's Discord, for answering our questions despite the channel's lack of traffic. Without you, we'd have stalled long ago.
+- Another big thanks to users @SamGuy, @jwhollister and @MichaelHerman of the `#csharp` channel on NEO's Discord, for answering our questions despite the channel's lack of traffic. Without you, we'd have stalled long ago.
 - A general thanks to the whole NEO Dev team, for providing the tools through which we made our idea a reality.
 
 Website: http://smarttransit.eu
