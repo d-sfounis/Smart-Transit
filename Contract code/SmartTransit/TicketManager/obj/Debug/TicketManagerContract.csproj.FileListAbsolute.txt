@@ -1,0 +1,7 @@
+C:\NeoDeveloping\SmartTransit\TicketManager\bin\Debug\TicketManager.dll
+C:\NeoDeveloping\SmartTransit\TicketManager\bin\Debug\TicketManager.pdb
+C:\NeoDeveloping\SmartTransit\TicketManager\bin\Debug\Neo.SmartContract.Framework.dll
+C:\NeoDeveloping\SmartTransit\TicketManager\obj\Debug\TicketManagerContract.csproj.CoreCompileInputs.cache
+C:\NeoDeveloping\SmartTransit\TicketManager\obj\Debug\TicketManager.dll
+C:\NeoDeveloping\SmartTransit\TicketManager\obj\Debug\TicketManager.pdb
+C:\NeoDeveloping\SmartTransit\TicketManager\obj\Debug\TicketManagerContract.csprojResolveAssemblyReference.cache

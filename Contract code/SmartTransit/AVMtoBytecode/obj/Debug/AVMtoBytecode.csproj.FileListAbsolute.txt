@@ -1,0 +1,7 @@
+C:\NeoDeveloping\SmartTransit\AVMtoBytecode\bin\Debug\AVMtoBytecode.exe.config
+C:\NeoDeveloping\SmartTransit\AVMtoBytecode\bin\Debug\AVMtoBytecode.exe
+C:\NeoDeveloping\SmartTransit\AVMtoBytecode\bin\Debug\AVMtoBytecode.pdb
+C:\NeoDeveloping\SmartTransit\AVMtoBytecode\obj\Debug\AVMtoBytecode.csprojResolveAssemblyReference.cache
+C:\NeoDeveloping\SmartTransit\AVMtoBytecode\obj\Debug\AVMtoBytecode.csproj.CoreCompileInputs.cache
+C:\NeoDeveloping\SmartTransit\AVMtoBytecode\obj\Debug\AVMtoBytecode.exe
+C:\NeoDeveloping\SmartTransit\AVMtoBytecode\obj\Debug\AVMtoBytecode.pdb

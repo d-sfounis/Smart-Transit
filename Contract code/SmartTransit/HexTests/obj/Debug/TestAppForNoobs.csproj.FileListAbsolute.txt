@@ -1,0 +1,14 @@
+C:\Users\Dimitris\source\repos\ConsoleApp1\TestAppForNoobs\bin\Debug\TestAppForNoobs.exe.config
+C:\Users\Dimitris\source\repos\ConsoleApp1\TestAppForNoobs\bin\Debug\TestAppForNoobs.exe
+C:\Users\Dimitris\source\repos\ConsoleApp1\TestAppForNoobs\bin\Debug\TestAppForNoobs.pdb
+C:\Users\Dimitris\source\repos\ConsoleApp1\TestAppForNoobs\obj\Debug\TestAppForNoobs.csproj.CoreCompileInputs.cache
+C:\Users\Dimitris\source\repos\ConsoleApp1\TestAppForNoobs\obj\Debug\TestAppForNoobs.exe
+C:\Users\Dimitris\source\repos\ConsoleApp1\TestAppForNoobs\obj\Debug\TestAppForNoobs.pdb
+C:\Users\Dimitris\source\repos\ConsoleApp1\TestAppForNoobs\obj\Debug\TestAppForNoobs.csprojResolveAssemblyReference.cache
+C:\NeoDeveloping\SmartTransit\TestAppForNoobs\bin\Debug\TestAppForNoobs.exe.config
+C:\NeoDeveloping\SmartTransit\TestAppForNoobs\bin\Debug\TestAppForNoobs.exe
+C:\NeoDeveloping\SmartTransit\TestAppForNoobs\bin\Debug\TestAppForNoobs.pdb
+C:\NeoDeveloping\SmartTransit\TestAppForNoobs\obj\Debug\TestAppForNoobs.csprojResolveAssemblyReference.cache
+C:\NeoDeveloping\SmartTransit\TestAppForNoobs\obj\Debug\TestAppForNoobs.csproj.CoreCompileInputs.cache
+C:\NeoDeveloping\SmartTransit\TestAppForNoobs\obj\Debug\TestAppForNoobs.exe
+C:\NeoDeveloping\SmartTransit\TestAppForNoobs\obj\Debug\TestAppForNoobs.pdb

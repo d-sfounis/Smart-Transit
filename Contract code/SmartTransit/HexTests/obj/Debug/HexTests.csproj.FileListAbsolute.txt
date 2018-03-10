@@ -1,0 +1,7 @@
+C:\NeoDeveloping\SmartTransit\TestAppForNoobs\obj\Debug\HexTests.csprojResolveAssemblyReference.cache
+C:\NeoDeveloping\SmartTransit\TestAppForNoobs\obj\Debug\HexTests.csproj.CoreCompileInputs.cache
+C:\NeoDeveloping\SmartTransit\TestAppForNoobs\bin\Debug\HexTests.exe.config
+C:\NeoDeveloping\SmartTransit\TestAppForNoobs\bin\Debug\HexTests.exe
+C:\NeoDeveloping\SmartTransit\TestAppForNoobs\bin\Debug\HexTests.pdb
+C:\NeoDeveloping\SmartTransit\TestAppForNoobs\obj\Debug\HexTests.exe
+C:\NeoDeveloping\SmartTransit\TestAppForNoobs\obj\Debug\HexTests.pdb
