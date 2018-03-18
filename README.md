@@ -63,7 +63,7 @@ A general lack of documentation is what held us back the most. Out-of-date docs 
 - Another big thanks to users @SamGuy, @jwhollister and @MichaelHerman of the `#csharp` channel on NEO's Discord, for answering our questions despite the channel's lack of traffic. Without you, we'd have stalled long ago.
 - A general thanks to the whole NEO Dev team, for providing the tools through which we made our idea a reality.
 
-Website: http://smarttransit.eu
+Website: https://smarttransit.eu
 
 Created by: Dimitris Sfounis (<https://dsfounis.com/>),
 Theocharis Iordanidis,
