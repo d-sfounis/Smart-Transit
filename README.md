@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="http://smarttransit.eu/images/logo_fixed.PNG" 
+    src="http://83.212.120.119/images/logo_fixed.PNG" 
     width="125px"
   >
 </p>
